@@ -1,8 +1,7 @@
-name = "compressor"
-type = "javascript"
+name = "compressor-worker"
 
 [site]
 bucket = "./public"
 
 [build]
-upload.format = "service-worker"
+upload.format = "modules"
