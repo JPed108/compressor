@@ -1,0 +1,8 @@
+name = "compressor"
+type = "javascript"
+
+[site]
+bucket = "./public"
+
+[build]
+upload.format = "service-worker"
