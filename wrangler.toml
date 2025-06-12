@@ -1,7 +1,0 @@
-name = "compressor-worker"
-
-[site]
-bucket = "./public"
-
-[build]
-upload.format = "modules"
